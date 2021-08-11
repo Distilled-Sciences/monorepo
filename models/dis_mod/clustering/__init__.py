@@ -1,0 +1,2 @@
+from models.clustering.bayesian_gaussian_mixture import BayesianGaussianMixture
+from models.clustering.gaussian_mixture import GuassianMixture

@@ -1,1 +1,0 @@
-from dis_feat.encoding.bin import BinEncoder
